@@ -349,7 +349,7 @@ print("Height of kite from the ground is {0} meters".format(round(AB, 1)))
 
 #### Example 2:
 
-<img src="/images/sinex2.png" />
+<img src="/images/sinex2.PNG" />
 
 Calculate the length of the side x, given that θ = 39°
 
@@ -543,13 +543,6 @@ np.cos({0, np.pi/2, np.pi})
 np.cos([0, np.pi/2, np.pi])
 ```
 
-
     array([ 1.000000e+00,  6.123234e-17, -1.000000e+00])
 
 
-
-
-
-```python
-
-```
